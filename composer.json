@@ -1,0 +1,10 @@
+
+{
+  "name": "jamesjinnz/dashcols-craft",
+    "license": "MIT",
+    "description": "craftcms plugin for dashcol",
+    "type": "craft-plugin",
+    "require" : {
+        "composer/installers" : "~1.0"
+    }
+}
